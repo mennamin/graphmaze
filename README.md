@@ -1,0 +1,1 @@
+Random Maze Generator with multiple solutions using graphs and DFS. Per each run soultions are randomly generated.The length and width can be chosen seperately with any size.Tested up to size 1000 * 1000.
